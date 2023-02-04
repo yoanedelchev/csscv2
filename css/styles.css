@@ -36,8 +36,6 @@ p{
 .top-container{
     background-color: #e4f9f5;
     padding-top: 100px;
-    position: relative;
-    height: 87vh;
 }
 .bottom-cloud{
     position: absolute;
@@ -49,9 +47,7 @@ p{
     top: 50px;
 }
 .mountain-img{
-    position: relative;
     width: 50vw;
-    bottom: 7vh;
 }
 .underline-class{
     text-decoration: underline;
