@@ -40,11 +40,14 @@ p{
 .bottom-cloud{
     position: absolute;
     left: 100px;
+    width: 10vw;
+
 }
 .top-cloud{
     position: absolute;
     right: 100px;
     top: 50px;
+    width: 10vw;
 }
 .mountain-img{
     width: 50vw;
